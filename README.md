@@ -26,7 +26,6 @@ Nextjs-UtilityFusion is a Next.js application that brings together essential onl
 To run this project locally, follow these steps:
 
 1. **Clone Repository**:
-   ```bash
    git clone <repository-url>
    cd Nextjs-UtilityFusion
 
